@@ -1,7 +1,7 @@
 version: 2
-target-branch: level3
 updates:
   - package-ecosystem: "npm"
     directory: "/"
+    target-branch: level3
     schedule:
       interval: "weekly"
